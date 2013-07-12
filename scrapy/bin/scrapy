@@ -1,0 +1,4 @@
+#!/home/paco/Code/Python/scrapy/bin/python
+
+from scrapy.cmdline import execute
+execute()
