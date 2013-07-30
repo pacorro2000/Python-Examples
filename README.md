@@ -1,4 +1,4 @@
-Python-Examples
+Python Examples
 ===============
 
 Python learning excercises
